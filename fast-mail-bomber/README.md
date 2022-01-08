@@ -6,4 +6,4 @@ cd useful-dockerfile/fast-mail-bomber
 docker build -t fast-mail-bomber .  
 
 ### 使用docker run 传入一个邮箱即可
-docker run bomer-from-git xxx@yyy.zzz
+docker run fast-mail-bomber xxx@yyy.zzz
